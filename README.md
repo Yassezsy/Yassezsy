@@ -1,37 +1,55 @@
-## 💻 Yassezsy's Dev Space
+# 💻 Yassezsy's Dev Space
 
-## 👨‍💻 Languages and Tools
+## 👨‍💻 About Me
+Passionate developer focused on coding, learning new technologies, and building cool projects.
 
-### Languages
+---
+
+# 🛠 Languages & Tools
+
+## Languages
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="HTML" />
-  <img src="https://shields.io" alt="Javascript" />
-  <img src="https://shields.io" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp" />
 </p>
 
-### Tools & Databases
+## Tools & Databases
 <p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Gradle" />
-  <img src="https://shields.io" alt="Maven" />
-  <img src="https://shields.io" alt="mySQL" />
+  <img src="https://skillicons.dev/icons?i=git,gradle,maven,mysql" />
 </p>
 
-### IDEs
+## IDEs
 <p align="left">
-  <img src="https://shields.io" alt="IntelliJ" />
-  <img src="https://shields.io" alt="VisualStudio2022" />
-  <img src="https://shields.io" alt="VisualStudioCode" />
-  <img src="https://shields.io" alt="WebStorm" />
-  <img src="https://shields.io" alt="CLion" />
+  <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,webstorm,clion" />
+</p>
+
+<!---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yassezsy&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassezsy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 Stats
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yassezsy&theme=tokyonight&hide_border=true" />
+</p>
+
+--->
+
+# 🌐 Contact Me
 
 <p align="left">
-  <img src="https://vercel.app" alt="Yassezsy's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Yassezsy's Top Langs" width="48%" />
+  <a href="https://discord.com/yassezsy">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+
+  <a href="https://t.me/yassezsy">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
 </p>
