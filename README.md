@@ -1,6 +1,6 @@
 # 💻 Yassezsy's Dev Space
 ### 🌐 Connect with me:
-[**Discord**](https://discord.com) | [**Telegram**](https://t.me/yassezsy)
+[**Discord**](https://discord.com) | [**Telegram**](https://telegram.org)
 
 ---
 
