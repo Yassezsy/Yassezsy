@@ -49,7 +49,7 @@ Passionate developer focused on coding, learning new technologies, and building 
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 
-  <a href="https://telegram.org/yassezsy">
-    <img src="https://skillicons.dev/icons?i=telegram" />
+  <a href="https://t.me/yassezsy">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
