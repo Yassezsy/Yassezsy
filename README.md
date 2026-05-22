@@ -1,7 +1,4 @@
 # 💻 Yassezsy's Dev Space
-### 🌐 Connect with me:
-[**Discord**](https://discord.com) | [**Telegram**](https://telegram.org)
-
 ---
 
 ## 👨‍💻 Languages and Tools
